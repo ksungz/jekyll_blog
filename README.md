@@ -18,50 +18,50 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 [![Minimal Mistakes live preview][2]][1]
 
 [1]: https://mmistakes.github.io/minimal-mistakes/
-[2]: screenshot.png (live preview)
+[2]: screenshot.png "live preview"
 
 ![layout examples](screenshot-layouts.png)
 
 ## Notable features
 
-- Bundled as a "theme gem" for easier installation/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data.
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, [Discourse](https://www.discourse.org/), static-based via [Staticman](https://staticman.net/), and [utterances](https://utteranc.es/)).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+-   Bundled as a "theme gem" for easier installation/upgrading.
+-   Compatible with GitHub Pages.
+-   Support for Jekyll's built-in Sass/SCSS preprocessor.
+-   Nine different skins (color variations).
+-   Several responsive layout options (single, archive index, search, splash, and paginated home page).
+-   Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data.
+-   Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
+-   Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, [Discourse](https://www.discourse.org/), static-based via [Staticman](https://staticman.net/), and [utterances](https://utteranc.es/)).
+-   [Google Analytics](https://www.google.com/analytics/) support.
+-   UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
 
 ## Skins (color variations)
 
 This theme comes in nine different skins (in addition to the default one).
 
-| `air` | `contrast` | `dark` |
-| --- | --- | --- |
+| `air`                                                                                                                                                                                 | `contrast`                                                                                                                                                                                           | `dark`                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![air skin](https://mmistakes.github.io/minimal-mistakes/assets/images/air-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/air-skin-archive-large.png) | [![contrast skin](https://mmistakes.github.io/minimal-mistakes/assets/images/contrast-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/contrast-skin-archive-large.png) | [![dark skin](https://mmistakes.github.io/minimal-mistakes/assets/images/dark-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/dark-skin-archive-large.png) |
 
-| `dirt` | `mint` | `sunrise` |
-| --- | --- | --- |
+| `dirt`                                                                                                                                                                                   | `mint`                                                                                                                                                                                   | `sunrise`                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![dirt skin](https://mmistakes.github.io/minimal-mistakes/assets/images/dirt-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/dirt-skin-archive-large.png) | [![mint skin](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive-large.png) | [![sunrise skin](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive-large.png) |
 
-| `aqua` | `neon` | `plum` |
-| --- | --- | --- |
+| `aqua`                                                                                                                                                                                   | `neon`                                                                                                                                                                                   | `plum`                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![aqua skin](https://mmistakes.github.io/minimal-mistakes/assets/images/aqua-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/aqua-skin-archive-large.png) | [![neon skin](https://mmistakes.github.io/minimal-mistakes/assets/images/neon-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/neon-skin-archive-large.png) | [![plum skin](https://mmistakes.github.io/minimal-mistakes/assets/images/plum-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/plum-skin-archive-large.png) |
 
 ## Demo pages
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
+| Name                                            | Description                                                   |
+| ----------------------------------------------- | ------------------------------------------------------------- |
+| [Post with Header Image][header-image-post]     | A post with a large header image.                             |
 | [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+| [Syntax Highlighting Post][syntax-post]         | Post displaying highlighted code.                             |
+| [Post with a Gallery][gallery-post]             | A post showing several images wrapped in `<figure>` elements. |
+| [Sample Collection Page][sample-collection]     | Single page from a collection.                                |
+| [Categories Archive][categories-archive]        | Posts grouped by category.                                    |
+| [Tags Archive][tags-archive]                    | Posts grouped by tag.                                         |
 
 Additional sample posts are available under [posts archive][year-archive] on the demo site. Source files for these (and the entire demo site) can be found in [`/docs`](docs).
 
@@ -86,21 +86,21 @@ This allows for easier installation and updating as you don't have to manage any
 
 1. Add the following to your `Gemfile`:
 
-   ```ruby
-   gem "minimal-mistakes-jekyll"
-   ```
+    ```ruby
+    gem "minimal-mistakes-jekyll"
+    ```
 
 2. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
 
-   ```bash
-   bundle
-   ```
+    ```bash
+    bundle
+    ```
 
 3. Set the `theme` in your project's Jekyll `_config.yml` file:
 
-   ```yaml
-   theme: minimal-mistakes-jekyll
-   ```
+    ```yaml
+    theme: minimal-mistakes-jekyll
+    ```
 
 To update the theme run `bundle update`.
 
@@ -112,20 +112,20 @@ To install:
 
 1. Create/replace the contents of your `Gemfile` with the following:
 
-   ```ruby
-   source "https://rubygems.org"
+    ```ruby
+    source "https://rubygems.org"
 
-   gem "github-pages", group: :jekyll_plugins
-   gem "jekyll-include-cache", group: :jekyll_plugins
-   ```
+    gem "github-pages", group: :jekyll_plugins
+    gem "jekyll-include-cache", group: :jekyll_plugins
+    ```
 
 2. Add `jekyll-include-cache` to the `plugins` array of your `_config.yml`.
 
 3. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
 
-   ```bash
-   bundle
-   ```
+    ```bash
+    bundle
+    ```
 
 4. Add `remote_theme: "mmistakes/minimal-mistakes@4.22.0"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
 
@@ -167,29 +167,29 @@ To test the theme, run `bundle exec rake preview` and open your browser at `http
 
 **Michael Rose**
 
-- <https://mademistakes.com>
-- <https://twitter.com/mmistakes>
-- <https://github.com/mmistakes>
+-   <https://mademistakes.com>
+-   <https://twitter.com/mmistakes>
+-   <https://github.com/mmistakes>
 
 ### Icons + Demo Images:
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
+-   [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
+-   [Font Awesome](http://fontawesome.io/)
+-   [Unsplash](https://unsplash.com/)
 
 ### Other:
 
-- [Jekyll](http://jekyllrb.com/)
-- [jQuery](http://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav)
-- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-- [Gumshoe](https://github.com/cferdinandi/gumshoe)
-- [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/)
-- [Lunr](http://lunrjs.com)
+-   [Jekyll](http://jekyllrb.com/)
+-   [jQuery](http://jquery.com/)
+-   [Susy](http://susy.oddbird.net/)
+-   [Breakpoint](http://breakpoint-sass.com/)
+-   [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+-   [FitVids.JS](http://fitvidsjs.com/)
+-   [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav)
+-   [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+-   [Gumshoe](https://github.com/cferdinandi/gumshoe)
+-   [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/)
+-   [Lunr](http://lunrjs.com)
 
 ---
 
@@ -217,13 +217,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/) 
+Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/)
 creators Garrett Knoll, Arthur Shlain, and tracy tam.
 Icons are distributed under Creative Commons Attribution 3.0 United States (CC BY 3.0 US).
 
 Minimal Mistakes incorporates [Font Awesome](http://fontawesome.io/),
 Copyright (c) 2017 Dave Gandy.
-Font Awesome is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL) 
+Font Awesome is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL)
 and [MIT License](http://opensource.org/licenses/MIT).
 
 Minimal Mistakes incorporates photographs from [Unsplash](https://unsplash.com).
